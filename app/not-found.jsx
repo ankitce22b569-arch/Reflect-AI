@@ -14,5 +14,8 @@ export default function NotFound() {
         <Button variant="journal">Return Home</Button>
       </Link>
     </div>
+
+
+
   );
 }
